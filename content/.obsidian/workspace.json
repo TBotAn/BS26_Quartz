@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Check Starting Programs.md",
+                "file": "Houdini/Vex Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Check Starting Programs"
+              "title": "Vex Scripts"
             }
           }
         ]
@@ -182,10 +182,14 @@
   },
   "active": "f0694561b3770159",
   "lastOpenFiles": [
+    "attachements/2026-06-09-1506-VEX-BUMP 1.md",
+    "How to Check Starting Programs.md",
+    "Houdini/Vex Scripts.md",
+    "attachements/2026-06-09-1506-VEX-BUMP.md",
+    "Houdini",
     "attachements/Pasted image 20260612181850.png",
     "attachements",
     "Pasted image 20260612181746.png",
-    "How to Check Starting Programs.md",
     "test-new-file.md",
     "Read Test.md",
     "Test Post 002.md"
