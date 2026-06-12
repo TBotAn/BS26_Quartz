@@ -1,3 +1,14 @@
+---
+
+categories: Windows
+
+tags:
+
+- note
+
+- Windows
+
+---
 
 1. Open Task Manger 
 2. Go to Startup Apps Tab
