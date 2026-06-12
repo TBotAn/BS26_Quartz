@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://blackscrew.com/wiki</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://blackscrew.com/wiki/tags/</link>
+    <guid>https://blackscrew.com/wiki/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 12 Jun 2026 14:09:10 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://blackscrew.com/wiki/</link>
+    <guid>https://blackscrew.com/wiki/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Fri, 12 Jun 2026 14:07:44 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
