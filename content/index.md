@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome BlackScrew Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a open repository of knowledge! Feel free to explore it and use it!
