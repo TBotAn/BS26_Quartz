@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Blackscrew Wiki</title>
+      <title>Blackscrew Wiki Test</title>
       <link>https://wiki.blackscrew.com</link>
-      <description>Last 10 notes on Blackscrew Wiki</description>
+      <description>Last 10 notes on Blackscrew Wiki Test</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Tag Index</title>
     <link>https://wiki.blackscrew.com/tags/</link>
     <guid>https://wiki.blackscrew.com/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 12 Jun 2026 14:35:36 GMT</pubDate>
+    <pubDate>Fri, 12 Jun 2026 16:13:05 GMT</pubDate>
+  </item><item>
+    <title>Read Test</title>
+    <link>https://wiki.blackscrew.com/read-test</link>
+    <guid>https://wiki.blackscrew.com/read-test</guid>
+    <description><![CDATA[ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ]]></description>
+    <pubDate>Fri, 12 Jun 2026 16:11:27 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
     <link>https://wiki.blackscrew.com/</link>
