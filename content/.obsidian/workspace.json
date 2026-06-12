@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24653d718559f4b4",
+        "id": "43f731b7a1767352",
         "type": "tabs",
         "children": [
           {
-            "id": "ef89ddd26c7db2a2",
+            "id": "f0694561b3770159",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test Post 002.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test Post 002"
             }
           }
         ]
@@ -176,8 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef89ddd26c7db2a2",
+  "active": "f0694561b3770159",
   "lastOpenFiles": [
-    "Read Test.md"
+    "Read Test.md",
+    "Test Post 002.md"
   ]
 }
