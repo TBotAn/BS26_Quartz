@@ -18,8 +18,6 @@ date: 2026-06-09
 
 # Delete By Distance
 
-  
-
 ```c
 
 // 1. Define your threshold distance
@@ -52,11 +50,9 @@ removepoint(0, @ptnum);
 
 ```
 
-  
 
+____
 # HSCRIPT - Setup Focus Distance
-
-  
 
 ```c
 
@@ -64,11 +60,9 @@ vlength(vtorigin(".", "../null1"))
 
 ```
 
-  
 
+____
 # Preview Shader
-
-  
 
 ```c
 
@@ -76,12 +70,9 @@ vlength(vtorigin(".", "../null1"))
 
 ```
 
-  
-  
 
+____
 # Additive Particle Shader
-
-  
 
 ```c
 
@@ -120,12 +111,9 @@ f@glow = (float(numNearPts) - 1) / (maxpts - 1);
 
 ```
 
-  
-  
 
+____
 # Fetch Noise
-
-  
 
 ```c
 
@@ -157,12 +145,9 @@ float targetNoise = point(1, "noise", targetPt);
 
 ```
 
-  
-  
 
+____
 # 90 Rotation
-
-  
 
 ```c
 
@@ -194,12 +179,10 @@ p@orient = qmultiply(p@orient, rotation);
 
 ```
 
-  
-  
 
+
+____
 # QUATERNION ROTATION
-
-  
 
 ```c
 
@@ -230,11 +213,10 @@ p@orient = qmultiply(p@orient, rotation);
 
 ```
 
-  
+
+____
 
 # FIND CLASS:
-
-  
 
 ```c
 
@@ -268,12 +250,10 @@ vector targetPos = point(1, "P", targetPt);
 
 ```
 
-  
-  
+
+____
 
 # FADE POINTS:
-
-  
 
 ```c
 
