@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrueNas/AdGuard/How to Setup AdGuard.md",
+                "file": "TrueNas/NextCloud/How to Use NextCloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Setup AdGuard"
+              "title": "How to Use NextCloud"
             }
           }
         ]
@@ -182,16 +182,22 @@
   },
   "active": "f0694561b3770159",
   "lastOpenFiles": [
-    "attachements/Pasted image 20260614115232.png",
-    "attachements/Pasted image 20260614115059.png",
-    "attachements/Pasted image 20260614113904.png",
-    "attachements/Pasted image 20260614113618.png",
-    "attachements/Pasted image 20260613170129.png",
-    "attachements/Pasted image 20260613165609.png",
-    "attachements/Pasted image 20260613164758.png",
-    "attachements/Pasted image 20260613164514.png",
-    "Windows/System Cleaning/How to Check Starting Programs.md",
+    "attachements/Pasted image 20260615165538.png",
+    "attachements/Pasted image 20260615165427.png",
+    "attachements/Pasted image 20260615165239.png",
+    "attachements/Pasted image 20260615165219.png",
+    "attachements/Pasted image 20260615160821.png",
+    "attachements/Pasted image 20260615155812.png",
+    "attachements/Pasted image 20260615155756.png",
+    "attachements/Pasted image 20260615155710.png",
+    "attachements/Pasted image 20260615155400.png",
+    "attachements/Pasted image 20260615155116.png",
+    "attachements/Pasted image 20260615154847.png",
+    "TrueNas/NextCloud/How to Install.md",
+    "TrueNas/NextCloud/How to Use NextCloud.md",
     "TrueNas/AdGuard/How to Setup AdGuard.md",
+    "TrueNas/NextCloud",
+    "Windows/System Cleaning/How to Check Starting Programs.md",
     "TrueNas/AdGuard",
     "TrueNas",
     "Python/Youtube Download App/How To Setup App.md",
@@ -199,10 +205,8 @@
     "index.md",
     "Web/Wiki-Quartz/Wiki Quartz Setup.md",
     "Web/YouTube Download Website.md",
-    "attachements/Pasted image 20260613113313.png",
     "Python/Youtube Download App",
     "Python",
-    "attachements/Pasted image 20260613110251.png",
     "Web/Wiki-Quartz",
     "Web",
     "Windows/System Cleaning",
@@ -211,8 +215,6 @@
     "attachements/2026-06-09-1506-VEX-BUMP.md",
     "attachements/2026-06-09-1506-VEX-BUMP 1.md",
     "Houdini",
-    "attachements/Pasted image 20260612181850.png",
-    "attachements",
     "test-new-file.md",
     "Read Test.md",
     "Test Post 002.md"
