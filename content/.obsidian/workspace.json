@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrueNas/NextCloud/How to Use NextCloud.md",
+                "file": "Windows/System Cleaning/System Clean Using WinUtil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Use NextCloud"
+              "title": "System Clean Using WinUtil"
             }
           }
         ]
@@ -182,6 +182,11 @@
   },
   "active": "f0694561b3770159",
   "lastOpenFiles": [
+    "attachements/Pasted image 20260616153304.png",
+    "attachements/Pasted image 20260616152944.png",
+    "attachements/Pasted image 20260616152714.png",
+    "TrueNas/NextCloud/How to Use NextCloud.md",
+    "Windows/System Cleaning/System Clean Using WinUtil.md",
     "attachements/Pasted image 20260615165538.png",
     "attachements/Pasted image 20260615165427.png",
     "attachements/Pasted image 20260615165239.png",
@@ -190,11 +195,7 @@
     "attachements/Pasted image 20260615155812.png",
     "attachements/Pasted image 20260615155756.png",
     "attachements/Pasted image 20260615155710.png",
-    "attachements/Pasted image 20260615155400.png",
-    "attachements/Pasted image 20260615155116.png",
-    "attachements/Pasted image 20260615154847.png",
     "TrueNas/NextCloud/How to Install.md",
-    "TrueNas/NextCloud/How to Use NextCloud.md",
     "TrueNas/AdGuard/How to Setup AdGuard.md",
     "TrueNas/NextCloud",
     "Windows/System Cleaning/How to Check Starting Programs.md",

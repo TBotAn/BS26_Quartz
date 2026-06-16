@@ -36,3 +36,6 @@ Follow this [video](https://youtu.be/2kvJ-0f0J78) for steps on how to create it.
    ![[Pasted image 20260615165427.png]]
 4. Share a folder with the user by going to files and clicking the icon in the image bellow, and in internal users adding the respective user. 
    ![[Pasted image 20260615165538.png]]
+
+
+
